@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Lenovo\workspace\sbtproxy\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1841532241.index
+2691817541.index
+3008315429.index
+2923945047.index
+1262258262.index
+1512798940.index
