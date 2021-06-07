@@ -1,0 +1,14 @@
+'''
+Created on 04-Aug-2020
+
+@author: Lenovo
+'''
+
+print("hello");
+print("hello world");
+
+a=50;
+b=500;
+print(a);
+print(id(a));
+print(id(b));

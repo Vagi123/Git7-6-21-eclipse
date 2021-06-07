@@ -1,0 +1,33 @@
+'''
+Created on 04-Aug-2020
+
+@author: Lenovo
+'''
+
+print("hello");
+print("hello world");
+
+a=50;
+b=500;
+print(a);
+print(id(a));
+print(id(b));
+
+#we can add same value to b then id will be same as a. object id
+
+name="vagish";
+_age=29;
+
+print(name,_age);
+
+# we can give same value to all variables like below or diff valyes ata time
+
+a=b=c=50;
+print(a,b,c);
+
+
+e=f=g=20,30,40;
+print e
+print f
+print g
+
