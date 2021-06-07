@@ -1,0 +1,23 @@
+INDEX VERSION 1.131
+C:\Users\Lenovo\workspace\Local\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3789776096.index
+\csrglobal_trunk\src
+C:\Users\Lenovo\workspace\Local\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2244849367.index
+\csrglobal_trunk\src
+C:\Users\Lenovo\workspace\Local\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1423547026.index
+\csrglobal_trunk\src
+C:\Users\Lenovo\workspace\Local\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2146515091.index
+\csrglobal_trunk\src
+C:\Users\Lenovo\workspace\Local\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\428927770.index
+\csrglobal_trunk\src
+C:\Users\Lenovo\workspace\Local\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\299247386.index
+\csrglobal_trunk\src
+C:\Users\Lenovo\workspace\Local\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3147593334.index
+\csrglobal_trunk\src
+C:\Users\Lenovo\workspace\Local\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1805268542.index
+\csrglobal_trunk\src
+C:\Users\Lenovo\workspace\Local\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1719957957.index
+\csrglobal_trunk\src
+C:\Users\Lenovo\workspace\Local\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\408985879.index
+\csrglobal_trunk\src
+C:\Users\Lenovo\workspace\Local\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1415283133.index
+\csrglobal_trunk\src
